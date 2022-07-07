@@ -4,7 +4,8 @@
 
 За плечами профессиональная переподготовка в ООО "Нетология" и вот чему я научился за весь период обучения:
 
-- Домашнаяя работа по курсу "Основы разработки" (https://github.com/FaizovTM/sal-rab-homeworks) 
+- Основы разработки (JavaScript) [Домашняя работа по курсу разработки](https://github.com/FaizovTM/sal-rab-homeworks) 
+- SQL (postgre, mysql) [Домашняя работа по курсу SQL](https://github.com/FaizovTM/SQL_homework/tree/main)
 - 
 
 Сертификат Нетология:
