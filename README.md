@@ -8,6 +8,7 @@
 - SQL (postgre, mysql) [Итоговая работа по курсу SQL](https://github.com/FaizovTM/SQL_homework/tree/main)
 - Моделирование БП (BPMN) [Итоговая работа BPMN](https://github.com/FaizovTM/Modeling-BP)
 - Анализ требования [Итоговая работа. Анализ требований](https://github.com/FaizovTM/Analyze/tree/main)
+- Прототипирование интерфейсов (Figma) [Итоговая работа. Прототипирование](https://github.com/FaizovTM/Prototype/tree/main)
 
 Сертификат Нетология:
 
