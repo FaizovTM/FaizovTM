@@ -9,7 +9,7 @@
 - Моделирование БП (BPMN) [Итоговая работа BPMN](https://github.com/FaizovTM/Modeling-BP)
 - Анализ требования [Итоговая работа. Анализ требований](https://github.com/FaizovTM/Analyze/tree/main)
 - Прототипирование интерфейсов (Figma) [Итоговая работа. Прототипирование](https://github.com/FaizovTM/Prototype/tree/main)
-
+- Итоговая работа по курсу ["Системны аналитик"](https://github.com/FaizovTM/Final)
 
 
 <!---
